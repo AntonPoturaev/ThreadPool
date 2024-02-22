@@ -1,0 +1,18 @@
+﻿///////////////////////////////////////////////////////////////////////////////
+///
+/// Project           ThreadPool library
+/// Copyright (c)     Poturaiev Anton, 2024
+///
+////////////////////////////////////////////////////////////////////////////////
+/// @file            ThreadPool.hpp
+/// @authors         Poturaiev Anton
+/// @date            22.02.2024
+///
+/// @brief           General public include of ThreadPool library.
+///
+////////////////////////////////////////////////////////////////////////////////
+
+#pragma once
+
+#include <ThreadPool/IThreadPool.hpp>
+#include <ThreadPool/ThreadPoolFactory.hpp>
